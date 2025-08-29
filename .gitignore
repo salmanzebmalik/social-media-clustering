@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Data & models
+data/raw/*
+data/processed/*
+data/external/*
+models/*
+results/*.log
+
+# OS/editor
+.DS_Store
+.env
+

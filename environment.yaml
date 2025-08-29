@@ -1,0 +1,22 @@
+name: sm-clustering
+channels: [conda-forge]
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - scikit-learn
+  - gensim
+  - nltk
+  - matplotlib
+  - seaborn
+  - plotly
+  - kaleido
+  - wordcloud
+  - textblob
+  - vaderSentiment
+  - scipy
+  - umap-learn
+  - jupyterlab
+  - pip
+  - pip:
+      - tqdm
