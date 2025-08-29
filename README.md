@@ -142,16 +142,3 @@ Example visualization:
 
 ---
 
-## 🌟 Professional Highlight
-
-This project demonstrates hands-on skills in:
-
-* **Text embeddings & dimensionality reduction**
-* **Clustering algorithms & evaluation metrics**
-* **Network analysis and visualization**
-* **Reproducible ML pipelines and clean project structure**
-
-It shows both **data science workflow mastery** and **software engineering best practices** (unit testing, modular code, deployment option).
-
----
-
